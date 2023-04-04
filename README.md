@@ -1,5 +1,7 @@
 # Final-Project-Game
 
-Build folder contains Game.exe to run the game
+Moved to Google Drive
 
-All scripts made are also included, assets could not be uploaded due to file size limits
+Build: https://drive.google.com/drive/folders/1ykNc1VE9ZGEwSCp6Y_f3TrWaOjtTaNgk?usp=share_link
+
+Game Project: https://drive.google.com/drive/folders/1OKjRNZFunfqi7aGuyAifnkiKS2urc0uD?usp=share_link
