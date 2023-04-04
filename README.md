@@ -1,7 +1,7 @@
 # Final-Project-Game
 
-Not all player textures could be uploaded due to file size.
+All assets successfully uploaded, plus build folder added
 
 Test scene is named: Scene_Level1
 
-"Assessts/Scenese/Scene_Level1.unity"
+"Assets/Scenese/Scene_Level1.unity"
