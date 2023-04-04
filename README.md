@@ -1,7 +1,5 @@
 # Final-Project-Game
 
-All assets successfully uploaded, plus build folder added
+Build folder contains Game.exe to run the game
 
-Test scene is named: Scene_Level1
-
-"Assets/Scenese/Scene_Level1.unity"
+All scripts made are also included, assets could not be uploaded due to file size limits
