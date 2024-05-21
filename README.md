@@ -1,4 +1,4 @@
-# Soul-Stealer (Game)
+# Soul Stealer (Game)
 
 Moved to Google Drive
 
